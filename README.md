@@ -1,4 +1,4 @@
-# RESTful API
+# Blog RESTful API
 
 ## Description
 This API was created with PHP for Blog websites.
